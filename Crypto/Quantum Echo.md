@@ -87,7 +87,7 @@ Ciphertext được giải mã bằng phép XOR với các block keystream liên
 
 Vì ciphertext dài 39 bytes, cần hai SHA-256 digest, mỗi digest 32 bytes, với counter bắt đầu từ 0.
 
-## Script:
+## ChatGPT Script để decode file json:
 ```
 import argparse
 import hashlib
