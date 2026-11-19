@@ -23,4 +23,4 @@ Liên tưởng lại hint ban đầu của challenge: "read between the lines", 
 
 Từ ảnh, ta có thể đọc được g4un{dvfll_o0y3}, đây là flag được mã hóa bằng Caesar Cipher, sau khi giải mã ta được
 
-Flag: `	d4rk{ascii_l0v3}`
+Flag: `d4rk{ascii_l0v3}`
